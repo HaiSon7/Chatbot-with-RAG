@@ -27,7 +27,7 @@ Query_user: hãy nói về samsung galaxy z fold4 - 256gb - chính hãng
 Context: Bạn có thể cho mình biết thêm chi tiết về Samsung Galaxy Z Fold4 với dung lượng lưu trữ 256GB, đặc biệt là về n
 hững ưu điểm và nhược điểm của phiên bản này? Còn nữa, bạn có thể cung cấp thông tin về mức giá, nơi bán chính hãng và các màu sắc khác cho phiên bản này không?
 Thông tin sản phẩm:
- 1) Tên: samsung galaxy z fold4 - 256gb - chính hãng, Giá: nan, Thông số: Công nghệ màn hình:
+ 1) Tên: samsung galaxy z fold4 - 256gb - chính hãng, Giá: 26.990.000 VND, Thông số: Công nghệ màn hình:
 Dynamic AMOLED 2X<br> Độ phân giải:
 Chính: QXGA+ (2176 x 1812 Pixels) & Phụ: HD+ (2316 x 904 Pixels), Chính 50 MP & Phụ 12 MP, 10 MP, 10 MP & 4 MP<br> Kích thước màn hình: 
 Chính 7.6 inch & 6.2 inch<br> Hệ điều hành:
@@ -38,7 +38,7 @@ Snapdragon 8+ Gen 1 8 nhân<br> Bộ nhớ trong:
 Hỗ trợ 5G<br> Số khe SIM:
 1 Nano SIM & 1 eSIM<br> Dung lượng pin:
 4400 mAh<br>, Ưu đãi: nan, Màu sắc: []
- 2) Tên: samsung galaxy z fold4 - 512gb -chính hãng, Giá: nan, Thông số: Công nghệ màn hình:
+ 2) Tên: samsung galaxy z fold4 - 512gb -chính hãng, Giá: 30.990.000 VND, Thông số: Công nghệ màn hình:
 Dynamic AMOLED 2X<br> Độ phân giải:
 Chính: QXGA+ (2176 x 1812 Pixels) & Phụ: HD+ (2316 x 904 Pixels), Chính 50 MP & Phụ 12 MP, 10 MP, 10 MP & 4 MP<br> Kích thước màn hình: 
 Chính 7.6 inch & 6.2 inch<br> Hệ điều hành:
