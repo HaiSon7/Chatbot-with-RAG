@@ -5,7 +5,7 @@ Chatbot tư vấn thông minh sử dụng RAG (Retrieval Augmented Generation) �
 ## 📸 Demo Screenshots
 
 ### Giao diện chính
-![Main Interface](images/Screenshot%2024-12-08%112639.png)
+![Main Interface](images/Screenshot%202024-12-08%20112639.png)
 *Giao diện chính của chatbot với sidebar thông tin và khung chat*
 
 ## Tư vấn sản phẩm
