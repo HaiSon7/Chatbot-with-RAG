@@ -5,20 +5,20 @@ Chatbot tư vấn thông minh sử dụng RAG (Retrieval Augmented Generation) �
 ## 📸 Demo Screenshots
 
 ### Giao diện chính
-![Main Interface](images/Screenshot 2024-12-08 112639.png)
+![Main Interface](images/Screenshot%2024-12-08%112639.png)
 *Giao diện chính của chatbot với sidebar thông tin và khung chat*
 
-### Tư vấn sản phẩm
-![Product Consultation](images/Screenshot 2024-12-08 112155.png)
+## Tư vấn sản phẩm
+![Product Consultation](images/Screenshot%202024-12-08%20112155.png)
 *Chatbot đang tư vấn chi tiết về một mẫu điện thoại*
 
-### So sánh sản phẩm
-![Product Comparison](images/Screenshot 2024-12-08 112421.png)
-![Product Comparison](images/Screenshot 2024-12-08 112523.png)
+## So sánh sản phẩm
+![Product Comparison](images/Screenshot%202024-12-08%20112421.png)
+![Product Comparison](images/Screenshot%202024-12-08%20112523.png)
 *So sánh thông số kỹ thuật giữa các mẫu điện thoại*
 
-### Trò chuyện thông thường
-![Chitchat](images/Screenshot 2024-12-08 111223.png)
+## Trò chuyện thông thường 
+![Chitchat](images/Screenshot%202024-12-08%20111223.png)
 *Chatbot có thể trò chuyện tự nhiên với người dùng*
 
 ### Tính năng tìm kiếm
