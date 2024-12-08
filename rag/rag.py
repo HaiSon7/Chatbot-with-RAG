@@ -76,12 +76,14 @@ class RAG():
                     # Mock up data
                     # Retrieval model pricing from the internet.
                     enhanced_prompt += f", Giá: Liên hệ để trao đổi thêm!"
-
+                if result.get('product_specs'):
+                    enhanced_prompt += f", Thông số: {result.get('product_specs')}"
                 if result.get('product_promotion'):
                     enhanced_prompt += f", Ưu đãi: {result.get('product_promotion')}"
 
                 if result.get('color_options'):
                     enhanced_prompt += f", Màu sắc: {result.get('color_options')}"
+
         return enhanced_prompt
 
 
