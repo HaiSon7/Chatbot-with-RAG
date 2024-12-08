@@ -177,18 +177,9 @@ DB_COLLECTION = "products"
 
 ## 📄 License
 
-MIT License - xem [LICENSE](LICENSE) để biết thêm chi tiết
-
 ## 👥 Tác giả
 
-- **Your Name** - *Initial work* - [YourGithub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- Gemma team cho mô hình ngôn ngữ
-- Sentence Transformers cho mô hình embedding
-- MongoDB team cho Atlas Vector Search
-- Streamlit team cho framework UI
+- **Nguyễn Hải Sơn** - *Initial work* - [HaiSon7](https://github.com/HaiSon7)
 
 ## 📊 Roadmap
 
